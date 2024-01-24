@@ -6,7 +6,12 @@
         xmlns:local="clr-namespace:WpfApp5"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+    <StackPanel>
+        <Label>Авторизация</Label>
+        <TextBlock>Логин</TextBlock>
+        <TextBox></TextBox>
+        <TextBlock>Пароль</TextBlock>
+        <PasswordBox></PasswordBox>
+        <Button Click="Button_Click">Войти</Button>
+    </StackPanel>
 </Window>

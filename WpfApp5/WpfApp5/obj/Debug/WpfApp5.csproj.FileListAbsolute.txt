@@ -1,0 +1,17 @@
+C:\Users\sasha\Desktop\test\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe.config
+C:\Users\sasha\Desktop\test\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe
+C:\Users\sasha\Desktop\test\WpfApp5\WpfApp5\bin\Debug\WpfApp5.pdb
+C:\Users\sasha\Desktop\test\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.AssemblyReference.cache
+C:\Users\sasha\Desktop\test\WpfApp5\WpfApp5\obj\Debug\MainWindow.g.cs
+C:\Users\sasha\Desktop\test\WpfApp5\WpfApp5\obj\Debug\User.g.cs
+C:\Users\sasha\Desktop\test\WpfApp5\WpfApp5\obj\Debug\App.g.cs
+C:\Users\sasha\Desktop\test\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.cache
+C:\Users\sasha\Desktop\test\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.lref
+C:\Users\sasha\Desktop\test\WpfApp5\WpfApp5\obj\Debug\MainWindow.baml
+C:\Users\sasha\Desktop\test\WpfApp5\WpfApp5\obj\Debug\User.baml
+C:\Users\sasha\Desktop\test\WpfApp5\WpfApp5\obj\Debug\WpfApp5.g.resources
+C:\Users\sasha\Desktop\test\WpfApp5\WpfApp5\obj\Debug\WpfApp5.Properties.Resources.resources
+C:\Users\sasha\Desktop\test\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.GenerateResource.cache
+C:\Users\sasha\Desktop\test\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\test\WpfApp5\WpfApp5\obj\Debug\WpfApp5.exe
+C:\Users\sasha\Desktop\test\WpfApp5\WpfApp5\obj\Debug\WpfApp5.pdb
